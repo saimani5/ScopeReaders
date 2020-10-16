@@ -1,0 +1,6 @@
+ScopeReaders.em.tem.dm3\_reader.read\_le\_short
+===============================================
+
+.. currentmodule:: ScopeReaders.em.tem.dm3_reader
+
+.. autofunction:: read_le_short

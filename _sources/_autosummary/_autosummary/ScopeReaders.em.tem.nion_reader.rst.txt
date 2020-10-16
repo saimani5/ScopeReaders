@@ -1,0 +1,35 @@
+ScopeReaders.em.tem.nion\_reader
+================================
+
+.. automodule:: ScopeReaders.em.tem.nion_reader
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      parse_zip
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      NionReader
+   
+   
+
+   
+   
+   
+
+
+

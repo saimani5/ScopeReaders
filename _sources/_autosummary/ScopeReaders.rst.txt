@@ -1,0 +1,33 @@
+﻿ScopeReaders
+============
+
+.. automodule:: ScopeReaders
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+      :template: custom-module-template.rst
+   :recursive:
+
+   ScopeReaders.em
+   ScopeReaders.generic
+   ScopeReaders.ion
+   ScopeReaders.spm
+

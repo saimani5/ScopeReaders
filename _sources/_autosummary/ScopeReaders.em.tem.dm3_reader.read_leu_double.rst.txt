@@ -1,0 +1,6 @@
+ScopeReaders.em.tem.dm3\_reader.read\_leu\_double
+=================================================
+
+.. currentmodule:: ScopeReaders.em.tem.dm3_reader
+
+.. autofunction:: read_leu_double

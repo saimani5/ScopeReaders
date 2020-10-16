@@ -1,0 +1,32 @@
+ScopeReaders.em.tem
+===================
+
+.. automodule:: ScopeReaders.em.tem
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+      :template: custom-module-template.rst
+   :recursive:
+
+   ScopeReaders.em.tem.dm3_reader
+   ScopeReaders.em.tem.nion_reader
+   ScopeReaders.em.tem.stem
+

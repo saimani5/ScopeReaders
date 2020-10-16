@@ -1,0 +1,6 @@
+ScopeReaders.generic.image.read\_image
+======================================
+
+.. currentmodule:: ScopeReaders.generic.image
+
+.. autofunction:: read_image

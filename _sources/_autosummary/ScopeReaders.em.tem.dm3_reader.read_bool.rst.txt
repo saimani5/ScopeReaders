@@ -1,0 +1,6 @@
+ScopeReaders.em.tem.dm3\_reader.read\_bool
+==========================================
+
+.. currentmodule:: ScopeReaders.em.tem.dm3_reader
+
+.. autofunction:: read_bool

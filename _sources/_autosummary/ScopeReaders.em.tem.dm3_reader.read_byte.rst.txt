@@ -1,0 +1,6 @@
+ScopeReaders.em.tem.dm3\_reader.read\_byte
+==========================================
+
+.. currentmodule:: ScopeReaders.em.tem.dm3_reader
+
+.. autofunction:: read_byte

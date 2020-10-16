@@ -1,0 +1,6 @@
+ScopeReaders.em.tem.nion\_reader.parse\_zip
+===========================================
+
+.. currentmodule:: ScopeReaders.em.tem.nion_reader
+
+.. autofunction:: parse_zip

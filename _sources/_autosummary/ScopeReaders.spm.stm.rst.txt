@@ -1,0 +1,23 @@
+ScopeReaders.spm.stm
+====================
+
+.. automodule:: ScopeReaders.spm.stm
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

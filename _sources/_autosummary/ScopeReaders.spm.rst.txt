@@ -1,0 +1,31 @@
+ScopeReaders.spm
+================
+
+.. automodule:: ScopeReaders.spm
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+      :template: custom-module-template.rst
+   :recursive:
+
+   ScopeReaders.spm.afm
+   ScopeReaders.spm.stm
+

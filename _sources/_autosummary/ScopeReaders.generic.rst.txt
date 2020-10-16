@@ -1,0 +1,30 @@
+ScopeReaders.generic
+====================
+
+.. automodule:: ScopeReaders.generic
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+      :template: custom-module-template.rst
+   :recursive:
+
+   ScopeReaders.generic.image
+
